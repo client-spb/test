@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+strong {
+    font-weight: inherit;
+}
+
+a {
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+/* ================================ */
+.wrapper {
+    max-width: 575px;
+    margin: 0 auto;
+}
+.gray{
+    background-color: #f3f4f6;
+    padding: 16px;
+}
+header{}
+.logo{
+    max-width: 200px;
+}
+
+
+
+/* ================================ */
+@media screen and (orientation:landscape) {
+  
+}
